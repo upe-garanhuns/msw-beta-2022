@@ -11,7 +11,7 @@ https://github.com/filipedeschamps/tabnews.com.br/issues/379
 
 ### Seção 4:
 
-- **Vídeo:** https://youtu.be/1GkN4L1ecEk
+- **Vídeo:** https://youtu.be/U4QcMTRUyt4
 - **Impacto de mudança:** 
 pages\[username]\[slug]\index.public
 
